@@ -1,0 +1,7 @@
+*.pyc
+
+# jupyter notebook checkpoints
+notebook/.ipynb_checkpoints
+
+# pycache
+__pycache__/
